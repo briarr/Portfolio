@@ -40,8 +40,6 @@ Based upon Terminal Portfolio project by [@cosmicwanderer7](https://github.com/c
 
 - Clean up
 
-- Add ```Theme``` feature
-
 - Add much more to the ```Projects``` section
 
 
