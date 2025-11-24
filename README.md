@@ -12,7 +12,7 @@
 
 ```
 
-```Terminal Portfolio``` project done for ```Design For The Internet``` class.
+```Terminal Portfolio``` project done for ```Design For The Internet``` class. (https://briarr.github.io/Portfolio/)
 
 
 ## Features
